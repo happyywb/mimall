@@ -5,9 +5,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
-import jsonp from 'jsonp'
 export default {
   name: 'App',
   components: {
@@ -18,9 +16,7 @@ export default {
   
     }
   },
-  mounted(){
   
-  }
 }
 </script>
 
