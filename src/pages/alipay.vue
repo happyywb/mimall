@@ -7,4 +7,4 @@
 export default {
     name:'alipay'
 }
-</script> 
+</script>  
