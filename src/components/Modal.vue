@@ -18,7 +18,7 @@
             <a href="javascript:;" class="btn btn-default" v-on:click="$emit('cancel')">{{cancelText}}</a>
           </div>
         </div>
-      </div> 
+      </div>
     </div>
   </transition>
 </template>
