@@ -96,7 +96,7 @@ export default{
     OrderHeader,
     ScanPayCode,
     Modal
-  },
+  }, 
   mounted(){
     this.getOrderDetail();
   },
